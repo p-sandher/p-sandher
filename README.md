@@ -96,8 +96,14 @@
 
 <ul>			
 	<li><i><a href="https://github.com/torrinworx/Cozy-Auto-Texture">Library Room Booking System</a></i><ul><li>A MERN application for booking study spots in a library. (Under construction)</li></ul></li>
-	
 </ul>
-## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
+
+<h2>
+  <div>
+    <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">
+    <strong>About Me</strong>
+  </div>
+</h2>
+
 My name is Puneet Sandher. I am an intrinsically motivated, independent worker in my third year of software engineering at the University of Guelph. 
 I am also very interested in project management, currently minoring in project management, and working on finding a role to include as much project organizing work as possible. I am passionate about bringing good project management techniques into the workplace and adapting these techniques for each team. I enjoy enabling others and supporting them on their path to learning and growing with me, and that is a large part of what makes work fun for me on a daily basis!
