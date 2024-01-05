@@ -7,22 +7,27 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-03635D?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-03635D.svg?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/java-03635D.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-03635D.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-03635D.svg?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/C-03635D.svg?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/R-03635D.svg?style=for-the-badge&logo=R&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-03635D.svg?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Fortran-03635D.svg?style=for-the-badge&logo=fortran&logoColor=white">
+  <img src="https://img.shields.io/badge/Fortran-03635D.svg?style=for-the-badge&logo=fortran&logoColor=white">
 
 </div>
 </p>
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Django-3626A7.svg?style=for-the-badge&logo=django&logoColor=white">
    <img src="https://img.shields.io/badge/React-3626A7.svg?style=for-the-badge&logo=React&logoColor=white">
    <img src="https://img.shields.io/badge/Bootstrap-3626A7.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
    <img src="https://img.shields.io/badge/Figma-3626A7.svg?style=for-the-badge&logo=Figma&logoColor=white">
+   <img src="https://img.shields.io/badge/node.js-3626A7?style=for-the-badge&logo=node.js&logoColor=white">
+   <img src="https://img.shields.io/badge/react_native-3626A7.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)">
+   <img src="https://img.shields.io/badge/pandas-3626A7.svg?style=for-the-badge&logo=pandas&logoColor=white">
+   <img src="https://img.shields.io/badge/numpy-3626A7.svg?style=for-the-badge&logo=numpy&logoColor=white">
+   <img src="https://img.shields.io/badge/LangChain-3626A7.svg?style=for-the-badge&logoColor=white">
 
   
 </div>
