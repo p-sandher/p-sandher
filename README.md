@@ -7,6 +7,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-03635D?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-03635D.svg?style=for-the-badge&logo=javascript&logoColor=white">
+	<img src="https://img.shields.io/badge/Java-03635D.svg?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-03635D.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-03635D.svg?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/C-03635D.svg?style=for-the-badge&logo=C&logoColor=white">
