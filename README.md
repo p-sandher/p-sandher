@@ -18,17 +18,23 @@
 <div align="center">
    <img src="https://img.shields.io/badge/React-3626A7.svg?style=for-the-badge&logo=React&logoColor=white">
    <img src="https://img.shields.io/badge/Bootstrap-3626A7.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
+   <img src="https://img.shields.io/badge/Figma-3626A7.svg?style=for-the-badge&logo=Figma&logoColor=white">
    <img src="https://img.shields.io/badge/node.js-3626A7?style=for-the-badge&logo=node.js&logoColor=white">
+   <img src="https://img.shields.io/badge/react_native-3626A7.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)">
    <img src="https://img.shields.io/badge/react_native-3626A7.svg?style=for-the-badge&logo=react&logoColor=white">
    <img src="https://img.shields.io/badge/pandas-3626A7.svg?style=for-the-badge&logo=pandas&logoColor=white">
    <img src="https://img.shields.io/badge/numpy-3626A7.svg?style=for-the-badge&logo=numpy&logoColor=white">
    <img src="https://img.shields.io/badge/LangChain-3626A7.svg?style=for-the-badge&logoColor=white">
+
+
    <img src="https://img.shields.io/badge/Streamlit-3626A7.svg?style=for-the-badge&logoColor=white">
 </div>
 </p>
+
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-00BBE0.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-00BBE0.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Git-00BBE0.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/docker-00BBE0.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/jira-00BBE0.svg?style=for-the-badge&logo=jira&logoColor=white">
@@ -38,6 +44,8 @@
   <img src="https://img.shields.io/badge/Figma-00BBE0.svg?style=for-the-badge&logo=Figma&logoColor=white">
   <img src="https://img.shields.io/badge/JUnit-00BBE0.svg?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Office-00BBE0?style=for-the-badge&logo=microsoft-office&logoColor=white">
+
+
 </div>
 </p>
 
@@ -46,10 +54,8 @@
   <img src="https://img.shields.io/badge/Trello-f75c7e.svg?style=for-the-badge&logo=Trello&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-f75c7e.svg?style=for-the-badge&logo=Slack&logoColor=white">
     <img src="https://img.shields.io/badge/Microsoft%20Office-f75c7e.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white">
-
 </div>
 </p>
-
 <p>
 <div align="center">
 <a href="https://www.linkedin.com/in/puneet-sandher/" rel="nofollow">
@@ -59,8 +65,7 @@
 	</a>	
 </div>
 </p>
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
-
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 <br/>
 <p align="left">
   <a href="https://p-sandher.github.io/puneet-sandher-website/">
