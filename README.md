@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World.;I'm+Puneet.;I+love+coding.;Check+out+my+projects.;&center=true&width=500&height=50&color=f75c7e"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World.;I'm+Puneet+Sandher.;I+love+coding.;Check+out+my+projects.;&center=true&width=500&height=50&color=f75c7e"></a>
 </p>
 
 <h2>
@@ -8,7 +8,13 @@
     <strong>About Me</strong>
   </div>
 </h2>
-
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Trello-f75c7e.svg?style=for-the-badge&logo=Trello&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-f75c7e.svg?style=for-the-badge&logo=Slack&logoColor=white">
+    <img src="https://img.shields.io/badge/Microsoft%20Office-f75c7e.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white">
+</div>
+</p>
 My name is Puneet Sandher. I am an intrinsically motivated, independent worker in my third year of software engineering at the University of Guelph. I am also very interested in project management, currently minoring in project management, and working on finding a role to include as much project organizing work as possible. I am passionate about bringing good project management techniques into the workplace and adapting these techniques for each team. I enjoy enabling others and supporting them on their path to learning and growing with me, and that is a large part of what makes work fun for me on a daily basis!
 
 <p>
@@ -20,7 +26,6 @@ My name is Puneet Sandher. I am an intrinsically motivated, independent worker i
   <img src="https://img.shields.io/badge/C-03635D.svg?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/R-03635D.svg?style=for-the-badge&logo=R&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-03635D.svg?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Fortran-03635D.svg?style=for-the-badge&logo=fortran&logoColor=white">
   <img src="https://img.shields.io/badge/Fortran-03635D.svg?style=for-the-badge&logo=fortran&logoColor=white">
 </div>
 </p>
@@ -35,8 +40,6 @@ My name is Puneet Sandher. I am an intrinsically motivated, independent worker i
    <img src="https://img.shields.io/badge/pandas-3626A7.svg?style=for-the-badge&logo=pandas&logoColor=white">
    <img src="https://img.shields.io/badge/numpy-3626A7.svg?style=for-the-badge&logo=numpy&logoColor=white">
    <img src="https://img.shields.io/badge/LangChain-3626A7.svg?style=for-the-badge&logoColor=white">
-
-
    <img src="https://img.shields.io/badge/Streamlit-3626A7.svg?style=for-the-badge&logoColor=white">
 </div>
 </p>
@@ -55,17 +58,10 @@ My name is Puneet Sandher. I am an intrinsically motivated, independent worker i
   <img src="https://img.shields.io/badge/JUnit-00BBE0.svg?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Office-00BBE0?style=for-the-badge&logo=microsoft-office&logoColor=white">
 
-
 </div>
 </p>
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Trello-f75c7e.svg?style=for-the-badge&logo=Trello&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-f75c7e.svg?style=for-the-badge&logo=Slack&logoColor=white">
-    <img src="https://img.shields.io/badge/Microsoft%20Office-f75c7e.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white">
-</div>
-</p>
+
 <p>
 <div align="center">
 <a href="https://www.linkedin.com/in/puneet-sandher/" rel="nofollow">
