@@ -86,7 +86,14 @@
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-sandher&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
-## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
+
+<h2>
+  <div>
+    <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30">
+    <strong>Current Projects</strong>
+  </div>
+</h2>
+
 <ul>			
 	<li><i><a href="https://github.com/torrinworx/Cozy-Auto-Texture">Library Room Booking System</a></i><ul><li>A MERN application for booking study spots in a library. (Under construction)</li></ul></li>
 	
