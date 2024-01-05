@@ -22,22 +22,29 @@
 <div align="center">
    <img src="https://img.shields.io/badge/React-3626A7.svg?style=for-the-badge&logo=React&logoColor=white">
    <img src="https://img.shields.io/badge/Bootstrap-3626A7.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
-   <img src="https://img.shields.io/badge/Figma-3626A7.svg?style=for-the-badge&logo=Figma&logoColor=white">
    <img src="https://img.shields.io/badge/node.js-3626A7?style=for-the-badge&logo=node.js&logoColor=white">
-   <img src="https://img.shields.io/badge/react_native-3626A7.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)">
+   <img src="https://img.shields.io/badge/react_native-3626A7.svg?style=for-the-badge&logo=react&logoColor=white">
    <img src="https://img.shields.io/badge/pandas-3626A7.svg?style=for-the-badge&logo=pandas&logoColor=white">
    <img src="https://img.shields.io/badge/numpy-3626A7.svg?style=for-the-badge&logo=numpy&logoColor=white">
    <img src="https://img.shields.io/badge/LangChain-3626A7.svg?style=for-the-badge&logoColor=white">
-
-  
+   <img src="https://img.shields.io/badge/Streamlit-3626A7.svg?style=for-the-badge&logoColor=white">
 </div>
 </p>
 
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-00BBE0.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-00BBE0.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Git-00BBE0.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-00BBE0.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/jira-00BBE0.svg?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-00BBE0?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/jenkins-00BBE0.svg?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Gradle-00BBE0.svg?style=for-the-badge&logo=Gradle&logoColor=white)">
+  <img src="https://img.shields.io/badge/Figma-00BBE0.svg?style=for-the-badge&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/JUnit-00BBE0.svg?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Office-00BBE0?style=for-the-badge&logo=microsoft-office&logoColor=white">
+
+
 </div>
 </p>
 
