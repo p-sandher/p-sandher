@@ -50,15 +50,6 @@
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Trello-f75c7e.svg?style=for-the-badge&logo=Trello&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-f75c7e.svg?style=for-the-badge&logo=Slack&logoColor=white">
-    <img src="https://img.shields.io/badge/Microsoft%20Office-f75c7e.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white">
-
-</div>
-</p>
-
-<p>
-<div align="center">
 <a href="https://www.linkedin.com/in/puneet-sandher/" rel="nofollow">
   		<img alt="Puneet Sandher's LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" style="max-width: 100%;">
 	<a href="https://p-sandher.github.io/puneet-sandher-website/" rel="nofollow">
