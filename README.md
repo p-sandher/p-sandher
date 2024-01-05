@@ -10,9 +10,14 @@
 </h2>
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/linkedin-f75c7e.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  <img src="https://img.shields.io/badge/Portfolio_Website-f75c7e.svg?style=for-the-badge&logoColor=white">
+  <a href="https://www.linkedin.com/in/puneet-sandher/" rel="nofollow">
+    <img src="https://img.shields.io/badge/linkedin-f75c7e.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://p-sandher.github.io/puneet-sandher-website/" rel="nofollow">
+    <img src="https://img.shields.io/badge/Portfolio_Website-f75c7e.svg?style=for-the-badge&logoColor=white">
+  </a>
 </div>
+
 </p>
 My name is Puneet Sandher. I am an intrinsically motivated, independent worker in my third year of software engineering at the University of Guelph. I am also very interested in project management, currently minoring in project management, and working on finding a role to include as much project organizing work as possible. I am passionate about bringing good project management techniques into the workplace and adapting these techniques for each team. I enjoy enabling others and supporting them on their path to learning and growing with me, and that is a large part of what makes work fun for me on a daily basis!
 
