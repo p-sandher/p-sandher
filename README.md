@@ -65,17 +65,6 @@ My name is Puneet Sandher. I am an intrinsically motivated, independent worker i
 
 </div>
 </p>
-
-
-<p>
-<div align="center">
-<a href="https://www.linkedin.com/in/puneet-sandher/" rel="nofollow">
-  		<img alt="Puneet Sandher's LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" style="max-width: 100%;">
-	<a href="https://p-sandher.github.io/puneet-sandher-website/" rel="nofollow">
-	 	<img alt="Puneet Sandher's Website" width="35px" src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" style="max-width: 100%;">
-	</a>	
-</div>
-</p>
 	
 <h2>
   <div>
