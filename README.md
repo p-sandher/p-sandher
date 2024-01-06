@@ -96,6 +96,6 @@ My name is Puneet Sandher. I am an intrinsically motivated, independent worker i
 </h2>
 
 <ul>			
-	<li><i><a href="https://github.com/torrinworx/Cozy-Auto-Texture">Library Room Booking System</a></i><ul><li>A MERN application for booking study spots in a library. (Under construction)</li></ul></li>
+	<li><i><a href="https://github.com/torrinworx/Cozy-Auto-Texture">Shanti</a></i><ul><li>A mobile app for mental health. (Under construction)</li></ul></li>
 </ul>
 
