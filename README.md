@@ -25,6 +25,7 @@ My name is Puneet Sandher. I am an intrinsically motivated, independent worker i
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-03635D?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/java-03635D.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-03635D.svg?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-03635D.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-03635D.svg?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -40,7 +41,7 @@ My name is Puneet Sandher. I am an intrinsically motivated, independent worker i
    <img src="https://img.shields.io/badge/Bootstrap-3626A7.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
    <img src="https://img.shields.io/badge/Figma-3626A7.svg?style=for-the-badge&logo=Figma&logoColor=white">
    <img src="https://img.shields.io/badge/node.js-3626A7?style=for-the-badge&logo=node.js&logoColor=white">
-   <img src="https://img.shields.io/badge/react_native-3626A7.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)">
+   <img src="https://img.shields.io/badge/react_native-3626A7.svg?style=for-the-badge&logo=react&logoColor=white">
    <img src="https://img.shields.io/badge/react_native-3626A7.svg?style=for-the-badge&logo=react&logoColor=white">
    <img src="https://img.shields.io/badge/pandas-3626A7.svg?style=for-the-badge&logo=pandas&logoColor=white">
    <img src="https://img.shields.io/badge/numpy-3626A7.svg?style=for-the-badge&logo=numpy&logoColor=white">
