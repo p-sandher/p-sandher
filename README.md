@@ -54,7 +54,7 @@ My name is Puneet Sandher. I am an intrinsically motivated, independent worker i
 <div align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-00BBE0.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-00BBE0.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-00BBE0.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/expo-00BBE0?style=for-the-badge&logo=expo&logoColor=white">
   <img src="https://img.shields.io/badge/docker-00BBE0.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/jira-00BBE0.svg?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-00BBE0?style=for-the-badge&logo=postman&logoColor=white">
