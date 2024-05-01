@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/puneet-sandher/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-f75c7e.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://p-sandher.github.io/puneet-sandher-website/" target="_blank">
+  <a href="https://puneet-sandher.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio_Website-f75c7e.svg?style=for-the-badge&logoColor=white">
   </a>
 </div>
